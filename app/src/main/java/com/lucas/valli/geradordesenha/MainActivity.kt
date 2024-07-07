@@ -29,9 +29,6 @@ class MainActivity : AppCompatActivity() {
 
             binding.txtSenha.text = "$letra1$letra2-$numero"
 
-            //fdfd
-
-
 
         }
 
